@@ -30,8 +30,3 @@ route et du décor afin de donner l’illusion de vitesse et de déplacement con
 • UI (Interface Utilisateur) : S’occupe de l’affichage des informations essentielles à l’écran 
 : score du joueur, messages contextuels (ex. : "Game Over", "Appuyez sur jouer pour 
 commencer", etc.). 
-b) Modélisation objet (structure des classes) : 
-• Game : Classe centrale qui coordonne l’ensemble des éléments du jeu. Elle gère les 
-différentes phases (menu, jeu, game over, etc.), orchestre les interactions entre les 
-objets, et contrôle le déroulement général de la partie. 
-✓ Responsabilités :
