@@ -1,0 +1,12 @@
+﻿  background.cpp
+  game.cpp
+  main.cpp
+  obtsacle.cpp
+  UI.cpp
+  voiture.cpp
+  Generating code
+  446 of 457 functions (97.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Voiture projet.vcxproj -> C:\Users\pc\Downloads\Super voiture 2D\Super voiture 2D\Voiture projet\x64\Release\Voiture projet.exe
